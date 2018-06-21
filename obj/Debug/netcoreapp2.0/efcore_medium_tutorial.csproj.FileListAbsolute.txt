@@ -1,0 +1,11 @@
+/Users/JuanCMontoya/Projects/vscode/csharp/efcore_medium_tutorial/bin/Debug/netcoreapp2.0/efcore_medium_tutorial.deps.json
+/Users/JuanCMontoya/Projects/vscode/csharp/efcore_medium_tutorial/bin/Debug/netcoreapp2.0/efcore_medium_tutorial.runtimeconfig.json
+/Users/JuanCMontoya/Projects/vscode/csharp/efcore_medium_tutorial/bin/Debug/netcoreapp2.0/efcore_medium_tutorial.runtimeconfig.dev.json
+/Users/JuanCMontoya/Projects/vscode/csharp/efcore_medium_tutorial/bin/Debug/netcoreapp2.0/efcore_medium_tutorial.dll
+/Users/JuanCMontoya/Projects/vscode/csharp/efcore_medium_tutorial/bin/Debug/netcoreapp2.0/efcore_medium_tutorial.pdb
+/Users/JuanCMontoya/Projects/vscode/csharp/efcore_medium_tutorial/obj/Debug/netcoreapp2.0/efcore_medium_tutorial.csprojAssemblyReference.cache
+/Users/JuanCMontoya/Projects/vscode/csharp/efcore_medium_tutorial/obj/Debug/netcoreapp2.0/efcore_medium_tutorial.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/vscode/csharp/efcore_medium_tutorial/obj/Debug/netcoreapp2.0/efcore_medium_tutorial.AssemblyInfoInputs.cache
+/Users/JuanCMontoya/Projects/vscode/csharp/efcore_medium_tutorial/obj/Debug/netcoreapp2.0/efcore_medium_tutorial.AssemblyInfo.cs
+/Users/JuanCMontoya/Projects/vscode/csharp/efcore_medium_tutorial/obj/Debug/netcoreapp2.0/efcore_medium_tutorial.dll
+/Users/JuanCMontoya/Projects/vscode/csharp/efcore_medium_tutorial/obj/Debug/netcoreapp2.0/efcore_medium_tutorial.pdb
